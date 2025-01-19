@@ -227,9 +227,9 @@
     color: rgba(217, 219, 225, 1);
     margin-bottom: 1rem;
 }
-.footer-imgs-comtainer{
+/* .footer-imgs-container{
     text-align: center;
-}
+} */
 .footer-imgs{
     background-color: #2b2b52;
     height: 20px;
@@ -241,3 +241,5 @@
 .last-footer-img{
     margin-right: 0rem;
 }
+ /* Responsive section */
+ 
